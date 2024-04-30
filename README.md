@@ -13,16 +13,17 @@
 </h2>
 
 
-**ebenezerowusu/ebenezerowusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on full-stack development projects, primarily using Angular, TypeScript, PHP (with Laravel), and C#.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced techniques in Angular and exploring more about backend technologies to enhance my full-stack development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👯 I’m looking to collaborate on interesting web development projects where I can contribute to both frontend and backend development.
+
+💬 Ask me about Angular, TypeScript, PHP, Laravel, or C#. I'd be happy to share insights and discuss these technologies.
+
+📫 How to reach me: You can reach me via email eo199124@gmail.com or connect with me on LinkedIn <a href="https://www.linkedin.com/in/owusu-ebenezer-741864226/">Owusu Ebenezer</a>.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy learning new languages and experimenting with different coding techniques to solve complex problems!
 
