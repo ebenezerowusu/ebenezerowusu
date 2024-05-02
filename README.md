@@ -27,3 +27,14 @@
 
 ⚡ Fun fact: I enjoy learning new languages and experimenting with different coding techniques to solve complex problems!
 
+
+<!-- GitHub Profile Summary -->
+<div align="center"> 
+    
+![ebenezerowusu's Stats](https://github-readme-stats.vercel.app/api?username=ebenezerowusu&theme=merko&show_icons=true&hide_border=false&count_private=true)
+    
+  ![ebenezerowusu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerowusu&theme=merko&hide_border=false)
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+</div>
