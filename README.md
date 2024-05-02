@@ -27,13 +27,14 @@
 
 ⚡ Fun fact: I enjoy learning new languages and experimenting with different coding techniques to solve complex problems!
 
-<div align="center"> 
+
     
 <!-- GitHub Profile Summary -->
 ---
 [![](https://visitcount.itsvg.in/api?id=ebenezerowusu&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
-
+<div align="center"> 
+    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Owusu Ebenezer](https://www.linkedin.com/in/owusu-ebenezer-741864226/)) 
 
