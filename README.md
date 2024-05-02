@@ -27,7 +27,8 @@
 
 ⚡ Fun fact: I enjoy learning new languages and experimenting with different coding techniques to solve complex problems!
 
-
+<div align="center"> 
+    
 <!-- GitHub Profile Summary -->
 ---
 [![](https://visitcount.itsvg.in/api?id=ebenezerowusu&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -35,6 +36,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Owusu Ebenezer](https://www.linkedin.com/in/owusu-ebenezer-741864226/)) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ebenezerowusu&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -44,21 +46,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ebenezerowusu&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
 
 <!-- End -->
 
-
-
-<div align="center"> 
-    
-![ebenezerowusu's Stats](https://github-readme-stats.vercel.app/api?username=ebenezerowusu&theme=merko&show_icons=true&hide_border=false&count_private=true)
-    
-  ![ebenezerowusu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerowusu&theme=merko&hide_border=false)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br/>
 </div>
