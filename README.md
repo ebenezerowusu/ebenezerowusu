@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerowusu" /> </p>
 
 <h2 align="center">
-    Hi 🤓, I'm Ebenezer<br>
+    Hi 🤓, I'm Eben<br>
     <a href="https://github.com/ebenezerowusu">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer👨‍💻;Angular%20Developer💪;Robotics%20Enthusiast%20💹&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
 <!--     </a>
