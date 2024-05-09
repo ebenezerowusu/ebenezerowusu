@@ -13,7 +13,7 @@
 </h2>
 
 
-🔭 I’m currently working on full-stack development projects, primarily using Angular, TypeScript, PHP (with Laravel), and C#.
+🔭 I’m currently working on full-stack development projects, primarily using Angular, TypeScript, PHP (with Laravel), and C#
 
 🌱 I’m currently learning advanced techniques in Angular and exploring more about backend technologies to enhance my full-stack development skills.
 
