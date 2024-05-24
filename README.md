@@ -5,7 +5,7 @@
 </div>  
 
 <br />
-
+### Hi there 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerowusu"/> </p>
 
@@ -22,9 +22,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" />
   
-### Hi there 👋
 
-### <div align="center">I'm Owusu Ebenezer, a Passionate Full Stack Engineer 👨‍💻 working remotely with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP with Laravel | Dedicated to Building Innovative Solutions</div>  
+
+### <div align="center">Passionate Full Stack Engineer 👨‍💻 working remotely with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP with Laravel | Dedicated to Building Innovative Solutions</div>  
   
 
 - 🔭  I’m currently working on full-stack development projects, primarily using Angular, TypeScript, PHP (with Laravel), and C#  
