@@ -1,10 +1,16 @@
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" />
-</div>  
+ 
 
 <div align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mnp6C50eyfjwu17Ew-9k5Q.jpeg" align="center" style="width: 100%" />
 </div>  
+
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" />
+</div> 
+
+<br />
   
 ### Hi there 👋
 
