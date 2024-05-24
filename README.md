@@ -1,7 +1,7 @@
  
 
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mnp6C50eyfjwu17Ew-9k5Q.jpeg" align="center" style="width: 100%" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mnp6C50eyfjwu17Ew-9k5Q.jpeg" align="center" height="300" width="1000" />
 </div>  
 
 <br />
