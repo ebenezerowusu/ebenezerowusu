@@ -112,7 +112,6 @@
 </a>  
 </div>  
   
-
 <br/>  
 
 
@@ -130,15 +129,19 @@
   
 ![](https://github-profile-trophy.vercel.app/?username=ebenezerowusu&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+
 </div> 
 
 <br/>  
 
 
-//## Recent Blog Posts  
+<!-- ## Recent Blog Posts  -->
   
 
-//<br/>  
+<br/>  
 
   
 
@@ -228,9 +231,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ebenezerowusu&theme=merko&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
+
 
 <!-- End -->
 
