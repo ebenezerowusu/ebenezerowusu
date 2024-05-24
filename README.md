@@ -55,7 +55,7 @@
 
 
 ## 🛠️ My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top" width="33%">
 
 ### 🎨 Frontend  
 <div align="center">  
