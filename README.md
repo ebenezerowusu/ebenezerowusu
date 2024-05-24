@@ -116,16 +116,22 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ebenezerowusu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 GitHub Stats: 
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=ebenezerowusu&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerowusu&theme=merko&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerowusu&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+
+</div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+//## Recent Blog Posts  
   
 
-<br/>  
+//<br/>  
 
   
 
@@ -211,10 +217,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Owusu Ebenezer](https://www.linkedin.com/in/owusu-ebenezer-741864226/)) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ebenezerowusu&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ebenezerowusu&theme=merko&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezerowusu&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ebenezerowusu&theme=merko&no-frame=true&no-bg=true&margin-w=4)
