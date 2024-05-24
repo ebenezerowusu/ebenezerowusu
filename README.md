@@ -7,7 +7,7 @@
 <br />
 ### Hi there 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerowusu"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" /> </p>
 
 <h2 align="center">
     Hi 🤓, I'm Eben<br>
@@ -20,7 +20,9 @@
 </h2>
 
 
-<img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ebenezerowusu&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerowusu"/>
+ -->
   
 
 
