@@ -32,12 +32,10 @@
 <br/>  
 
 
-## My Skill Set  
+## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### 🎨 Frontend  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -57,7 +55,7 @@
 
 </td><td valign="top" width="20%">
 
-### Backend  
+### 🔧 Backend  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -70,14 +68,14 @@
 
 
 
-### DevOps  
+### 🚀 DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
   
-### Database  
+### 🗄️ Database  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -90,7 +88,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🌐 Connect with me  
 <div align="center">
 <a href="https://twitter.com/MartiniGuy_51v0" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -138,7 +136,7 @@
 <br/>  
 
 
-<!-- ## Recent Blog Posts  -->
+<!-- ## 📝 Recent Blog Posts  -->
   
 
 <br/>  
@@ -154,6 +152,7 @@
 
 <br/>  
 
+## 💸 Support
 <div align="center">
             <a href="https://www.buymeacoffee.com/owusuebenezer" target="_blank" style="display: inline-block;">
                 <img
