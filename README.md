@@ -27,7 +27,7 @@
   
 
 
-### <div align="center">Passionate Full Stack Engineer 👨‍💻 working remotely with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP with Laravel | Dedicated to Building Innovative Solutions</div>  
+### <div align="center">Passionate Full Stack Engineer 👨‍💻 working with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP with Laravel | Dedicated to Building Innovative Solutions</div>  
   
 
 - 🔭  I’m currently working on full-stack development projects, primarily using Angular, TypeScript, PHP (with Laravel), and C#  
