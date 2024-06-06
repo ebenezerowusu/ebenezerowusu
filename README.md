@@ -36,7 +36,7 @@
 - 👯    I’m looking to collaborate on interesting Software development projects where I can contribute to both frontend and backend development.  
   
 
-- 🌱 I’m currently learning Fliament with laravel(PHP) and advanced techniques in Angular and exploring more about backend technologies to enhance my full-stack development skills.  
+- 🌱 I’m currently learning Flutter and advanced techniques in Angular and Strapi. Exploring more about backend technologies to enhance my full-stack development skills.  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
