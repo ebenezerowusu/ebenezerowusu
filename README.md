@@ -14,17 +14,11 @@
     🤓, I'm Eben<br>
     <a href="https://github.com/ebenezerowusu">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack%20Developer👨‍💻;Angular%20Developer💪;Robotics%20Enthusiast%20💹&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
-<!--     </a>
-    <a href="https://github.com/ladunjexa">
-        <img src="https://github.com/ebenezerowusu/Redeemm/blob/output/github-contribution-grid-snake.gif" alt="snake" height="70%" width="70%"/>
-    </a> -->
+
 </h2>
 
 
-<!-- <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" />
-<img src="https://komarev.com/ghpvc/?username=ebenezerowusu&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezerowusu"/>
- -->
-  
+
 
 
 ### <div align="center">Passionate Full Stack Engineer 👨‍💻 working with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP | Dedicated to Building Innovative Solutions</div>  
