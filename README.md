@@ -42,7 +42,7 @@
 - 😄 Pronouns: He/Him  
   
 
-- ⚡ Fun fact: I enjoy learning new languages and experimenting with different coding techniques to solve complex problems!  
+- ⚡  Fun fact: I enjoy learning new languages and experimenting with different coding techniques to solve complex problems!  
   
 
 <br/>  
