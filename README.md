@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ebenezerowusu&&style=flat-square" align="center" /></p>
 
 <h2 align="center">
     🤓, I'm Eben<br>
