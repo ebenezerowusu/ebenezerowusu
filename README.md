@@ -34,7 +34,7 @@
 - 🌱 I’m currently learning Ruby on Rails and advanced techniques in Angular and Strapi. Exploring more about backend technologies to enhance my full-stack development skills.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
   
 
 - 📫  How to reach me: You can reach me via email [eo199124@gmail.com](eo199124@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/owusu-ebenezer-741864226/).  
