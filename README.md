@@ -24,7 +24,7 @@
 ### <div align="center">Passionate Full Stack Engineer 👨‍💻 working with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP | Dedicated to Building Innovative Solutions.</div>  
   
 
-- 🔭  I’m currently working on full-stack development projects, primarily using Angular, TypeScript, and PHP (with Laravel) 
+- 🔭  I’m currently working on onlyusedtesla Application - https://staging.ca.onlyusedtesla.com/
 -   
   
 
