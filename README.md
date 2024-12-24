@@ -24,7 +24,7 @@
 ### <div align="center">Passionate Full Stack Engineer 👨‍💻 working with TechOne IT & Digital Solutions 🚀 | Expert in Angular, TypeScript and PHP | Dedicated to Building Innovative Solutions.</div>  
   
 
-- 🔭  I’m currently working on onlyusedtesla Application - https://staging.ca.onlyusedtesla.com/
+- 🔭  I’m currently working on onlyusedtesla Tracking Application - [https://staging.ca.onlyusedtesla.com/](https://price-tracker.victoriousdesert-34400fa2.eastus.azurecontainerapps.io/)
 -   
   
 
