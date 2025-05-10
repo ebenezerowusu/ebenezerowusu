@@ -24,7 +24,7 @@
 ### <div align="center">Passionate Full-Stack Engineer working with TechOne IT & Digital Solutions | Expert in Angular, TypeScript and PHP | Dedicated to Building Innovative Solutions.</div>  
   
 
-- 🔭  I’m currently working on onlyusedtesla Tracking Application - [https://onlyusedtesla.com/]((https://onlyusedtesla.com))
+- 🔭  I’m currently working on onlyusedtesla Tracking Application - [https://onlyusedtesla.com]((https://onlyusedtesla.com))
   
 
 - 👯    I’m looking to collaborate on interesting Software development projects where I can contribute to both frontend and backend development.  
